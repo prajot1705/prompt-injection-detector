@@ -15,7 +15,7 @@ based on real-time user input.
 ## 📸 Demo
 ![Demo Screenshot](screenshot.png)
 
-🎥 [Click to watch demo video](link-to-your-video)
+🎥 [Click to watch demo video](https://youtu.be/kDcdcEst1sA?si=3bC9zUkamzMsniv5)
 
 ## 🛠 Installation
 
