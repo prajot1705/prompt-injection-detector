@@ -13,7 +13,6 @@ based on real-time user input.
 - Works offline
 
 ## 📸 Demo
-![Demo Screenshot](screenshot.png)
 
 🎥 [Click to watch demo video](https://youtu.be/kDcdcEst1sA?si=3bC9zUkamzMsniv5)
 
